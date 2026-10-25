@@ -8,9 +8,6 @@ function Signin() {
     <main className="flex min-h-screen items-center justify-center bg-[#fff9f6] px-4 py-10">
       <section className="w-full max-w-md">
         <header className="mb-8 text-center">
-          <div className="mx-auto mb-3 flex h-16 w-16 items-center justify-center rounded-2xl bg-[#ff4d2d] text-3xl shadow-lg">
-            🍔
-          </div>
           <h1 className="text-3xl font-extrabold text-[#ff4d2d]">
             SwadExpress
           </h1>
